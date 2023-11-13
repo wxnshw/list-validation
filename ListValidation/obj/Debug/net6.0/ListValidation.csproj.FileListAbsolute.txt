@@ -1,0 +1,15 @@
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\bin\Debug\net6.0\ListValidation.exe
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\bin\Debug\net6.0\ListValidation.deps.json
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\bin\Debug\net6.0\ListValidation.runtimeconfig.json
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\bin\Debug\net6.0\ListValidation.dll
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\bin\Debug\net6.0\ListValidation.pdb
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ListValidation.csproj.AssemblyReference.cache
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ListValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ListValidation.AssemblyInfoInputs.cache
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ListValidation.AssemblyInfo.cs
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ListValidation.csproj.CoreCompileInputs.cache
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ListValidation.dll
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\refint\ListValidation.dll
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ListValidation.pdb
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ListValidation.genruntimeconfig.cache
+C:\Projetos\c#-dio-projects\ListValidation\ListValidation\obj\Debug\net6.0\ref\ListValidation.dll

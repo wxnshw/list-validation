@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListValidation", "ListValidation\ListValidation.csproj", "{159F7F93-B1EF-4C5E-BC24-CC0EA851A614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestList", "TestList\TestList.csproj", "{CA87DCEB-FC74-4D74-A60A-6F1F344A377D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159F7F93-B1EF-4C5E-BC24-CC0EA851A614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159F7F93-B1EF-4C5E-BC24-CC0EA851A614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159F7F93-B1EF-4C5E-BC24-CC0EA851A614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159F7F93-B1EF-4C5E-BC24-CC0EA851A614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA87DCEB-FC74-4D74-A60A-6F1F344A377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA87DCEB-FC74-4D74-A60A-6F1F344A377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA87DCEB-FC74-4D74-A60A-6F1F344A377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA87DCEB-FC74-4D74-A60A-6F1F344A377D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BE5A08-AA84-4770-B3BF-71C9B364AEBA}
+	EndGlobalSection
+EndGlobal
